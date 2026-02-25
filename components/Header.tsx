@@ -71,7 +71,7 @@ export default function Header() {
                         <div className="w-8 h-8 rounded-full bg-gradient-gold flex items-center justify-center">
                             <span className="text-white font-serif font-bold text-sm">S</span>
                         </div>
-                        <span className="font-serif text-xl font-bold text-maroon tracking-wide hidden sm:block">
+                        <span className="font-serif text-base sm:text-xl font-bold text-maroon tracking-wide">
                             Suraj Group
                         </span>
                     </Link>
